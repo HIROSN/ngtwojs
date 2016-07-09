@@ -2,8 +2,8 @@
   "name": "angular2-quickstart",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js",
-    "lite": "lite-server"
+    "start": "lite-server",
+    "express": "node index.js"
   },
   "license": "ISC",
   "dependencies": {
